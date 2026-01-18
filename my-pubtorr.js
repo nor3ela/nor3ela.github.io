@@ -130,7 +130,7 @@
         parser_torrent_type: 'jackett'
       }
     }, {
-        id: 'https://jackett.1337.cx'',
+        id: 'https://jackett.1337.cx',
         name: 'jackett.1337.cx🇺🇦',
         settings: {
           url: 'https://jackett.1337.cx'',
