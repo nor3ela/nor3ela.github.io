@@ -101,73 +101,73 @@
         }
       });
     }
-    var Lang = {
-      translate: translate
-    };
-
-    var parsersInfo = [{
-      id: 'https://jackett.sidepath.online',
-      name: '🇺🇦Flownetua',
-      settings: {
-        url: 'https://jackett.sidepath.online',
-        key: '2',
-        parser_torrent_type: 'jackett'
-      }
-    }, {
-      id: 'http://spawnum.duckdns.org:49117',
-      name: 'Spawn V1🇺🇦',
-      settings: {
-        url: 'http://spawnum.duckdns.org:49117',
-        key: '2',
-        parser_torrent_type: 'jackett'
-      }
-    }, {
-      id: 'http://spawnum.duckdns.org:59117',
-      name: 'Spawn V2🇺🇦',
-      settings: {
-        url: 'http://spawnum.duckdns.org:59117',
-        key: '',
-        parser_torrent_type: 'jackett'
-      }
-    }, {
-        id: 'https://jackett.1337.cx',
-        name: 'jackett.1337.cx🇺🇦',
-        settings: {
-          url: 'https://jackett.1337.cx'',
-          key: '7',
-          parser_torrent_type: 'jackett'
-      }
-    }, {
-      id: 'jac.stull.xyz',
-      name: 'jac.stull.xyz',
-      settings: {
-        url: 'jac.stull.xyz',
-        key: '1',
-        parser_torrent_type: 'jackett'
-      }
-    }, {
-      id: 'jacred_xyz',
-      name: 'Jacred.xyz',
-      settings: {
-        url: 'jacred.xyz',
-        key: '',
-        parser_torrent_type: 'jackett'
-      }
-    }, {
-      id: 'jacred_pro',
-      name: 'Jacred.pro',
-      settings: {
-        url: 'jacred.pro',
-        key: '',
-        parser_torrent_type: 'jackett'
-      }
-    }];
-
-    function _arrayLikeToArray(r, a) {
-      (null == a || a > r.length) && (a = r.length);
-      for (var e = 0, n = Array(a); e < a; e++) n[e] = r[e];
-      return n;
-    }
+var Lang = {  
+  translate: translate  
+};  
+  
+var parsersInfo = [{  
+  id: 'https://jackett.sidepath.online',  
+  name: '🇺🇦Flownetua',  
+  settings: {  
+    url: 'https://jackett.sidepath.online',  
+    key: '2',  
+    parser_torrent_type: 'jackett'  
+  }  
+}, {  
+  id: 'http://spawnum.duckdns.org:49117',  
+  name: 'Spawn V1🇺🇦',  
+  settings: {  
+    url: 'http://spawnum.duckdns.org:49117',  
+    key: '2',  
+    parser_torrent_type: 'jackett'  
+  }  
+}, {  
+  id: 'http://spawnum.duckdns.org:59117',  
+  name: 'Spawn V2🇺🇦',  
+  settings: {  
+    url: 'http://spawnum.duckdns.org:59117',  
+    key: '',  
+    parser_torrent_type: 'jackett'  
+  }  
+}, {  
+  id: 'https://jackett.1337.cx',  
+  name: 'jackett.1337.cx🇺🇦',  
+  settings: {  
+    url: 'https://jackett.1337.cx',  
+    key: '7',  
+    parser_torrent_type: 'jackett'  
+  }  
+}, {  
+  id: 'jac.stull.xyz',  
+  name: 'jac.stull.xyz',  
+  settings: {  
+    url: 'jac.stull.xyz',  
+    key: '1',  
+    parser_torrent_type: 'jackett'  
+  }  
+}, {  
+  id: 'jacred_xyz',  
+  name: 'Jacred.xyz',  
+  settings: {  
+    url: 'jacred.xyz',  
+    key: '',  
+    parser_torrent_type: 'jackett'  
+  }  
+}, {  
+  id: 'jacred_pro',  
+  name: 'Jacred.pro',  
+  settings: {  
+    url: 'jacred.pro',  
+    key: '',  
+    parser_torrent_type: 'jackett'  
+  }  
+}]; // Added semicolon  
+  
+function _arrayLikeToArray(r, a) {  
+  (null == a || a > r.length) && (a = r.length);  
+  for (var e = 0, n = Array(a); e < a; e++) n[e] = r[e];  
+  return n;  
+}
     function _arrayWithoutHoles(r) {
       if (Array.isArray(r)) return _arrayLikeToArray(r);
     }
