@@ -1,4 +1,4 @@
-1.Каталог парсерів
+1.Каталог парсерів Telegram автора: @lme_chat @GwynnBleiidd
 оригінальне посилання - https://lampame.github.io/main/pubtorr.js
 
 
