@@ -129,15 +129,7 @@ var parsersInfo = [{
     key: '',  
     parser_torrent_type: 'jackett'  
   }  
-}, {  
-  id: 'https://jackett.1337.cx',  
-  name: 'jackett.1337.cx🇺🇦',  
-  settings: {  
-    url: 'https://jackett.1337.cx',  
-    key: '7',  
-    parser_torrent_type: 'jackett'  
-  }  
-}, {  
+}, {   
   id: 'jac.stull.xyz',  
   name: 'jac.stull.xyz',  
   settings: {  
