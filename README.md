@@ -158,7 +158,34 @@ https://nor3ela.github.io/interface_vertical.js
 c<img width="1280" height="598" alt="image" src="https://github.com/user-attachments/assets/69e4869d-505d-4320-925f-661d43a772fc" />
 
 
-
 https://bywolf88.github.io/lampa-plugins/index_interface_mod_new.html или же прямая ссылка https://bywolf88.github.io/lampa-plugins/interface_mod_new.js
 
 https://nor3ela.github.io/interface_mod_new.js
+
+18. maxsm_ratings_mod Telegram автора: @carp_carp
+Держи своё качество с рейтингами :)
+
+
+https://nor3ela.github.io/maxsm_ratings_mod.js
+
+19. my-pubtorr Telegram автора: https://t.me/lme_chat @GwynnBleiidd
+Додає в налаштуваннях Парсер швидкий вибір URL парсера Jackett.
+
+
+https://lampame.github.io/main/pubtorr.js
+
+https://nor3ela.github.io/my-pubtorr.js
+
+20. no-shots Telegram автора: @Menfith
+Кому интересен плагин полностью вырезающий Shots с Лампы, можите пользоваться
+
+
+https://nor3ela.github.io/no-shots.js
+
+21. prisma_collections Telegram автора: @levende
+https://levende.github.io/lampa-plugins/prisma_collections.js
+
+
+https://nor3ela.github.io/prisma_collections.js
+
+22.
