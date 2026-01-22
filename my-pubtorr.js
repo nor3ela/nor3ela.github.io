@@ -113,23 +113,7 @@ var parsersInfo = [{
     key: '2',  
     parser_torrent_type: 'jackett'  
   }  
-}, {  
-  id: 'http://spawnum.duckdns.org:49117',  
-  name: 'Spawn V1🇺🇦',  
-  settings: {  
-    url: 'http://spawnum.duckdns.org:49117',  
-    key: '2',  
-    parser_torrent_type: 'jackett'  
-  }  
-}, {  
-  id: 'http://spawnum.duckdns.org:59117',  
-  name: 'Spawn V2🇺🇦',  
-  settings: {  
-    url: 'http://spawnum.duckdns.org:59117',  
-    key: '',  
-    parser_torrent_type: 'jackett'  
-  }  
-}, {   
+}, {    
   id: 'jac.stull.xyz',  
   name: 'jac.stull.xyz',  
   settings: {  
