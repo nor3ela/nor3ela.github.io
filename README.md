@@ -273,3 +273,12 @@ EasyTorrent (Beta) — експериментальний плагін для La
 https://darkestclouds.github.io/plugins/easytorrent/easytorrent.min.js
 
 https://nor3ela.github.io/trrnttlk5.js
+
+29. rezkacomment Telegram автора: @BDV_Burik
+Коментарaрі Резка
+<img width="1840" height="798" alt="image" src="https://github.com/user-attachments/assets/3b1dc218-54f0-4820-bf5a-9ac233fb0899" />
+
+
+https://bdvburik.github.io/rezkacomment.js
+
+https://nor3ela.github.io/rezkacomment.js
