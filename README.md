@@ -8,7 +8,8 @@
 
 
 
-<img width="783" height="517" alt="Снимок экрана_20260118_172950" src="https://github.com/user-attachments/assets/f7eec41a-2545-4a7b-b4ac-156b782ba6e6" />
+<img width="835" height="522" alt="image" src="https://github.com/user-attachments/assets/8fbf0300-c834-4b43-8822-3675429351eb" />
+
 
 2.OnlineServe Telegram автора: @ipavlin98
 
