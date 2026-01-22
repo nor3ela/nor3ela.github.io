@@ -243,3 +243,30 @@ https://nor3ela.github.io/themes-alex.js
 
 
 https://nor3ela.github.io/themes-new.js
+
+26. title Telegram автора: @BDV_Burik
+Орігінал назви
+<img width="1876" height="647" alt="image" src="https://github.com/user-attachments/assets/c97e4bf3-b620-4462-978a-7b78357456d6" />
+
+
+https://bdvburik.github.io/title.js
+
+https://nor3ela.github.io/title.js
+
+27. torrent_styles_v2 Telegram автора: Невідомо
+Стилізація торрентів
+<img width="1080" height="2412" alt="image" src="https://github.com/user-attachments/assets/3c63f72f-c523-4053-846a-a941d25ddaed" />
+
+https://nor3ela.github.io/torrent_styles_v2.js
+
+28. trrnttlk5 Telegram тех кто переделал под toloka 4k dolby: @taras_soltan, @kick0f
+
+Telegram автора: @exlibri7
+
+EasyTorrent (Beta) — експериментальний плагін для Lampa, який аналізує запити та ранжує торренти за заданими пріоритетами. Плагін у тестуванні, можливі баги; налаштування виконуються через майстер із генерацією JSON-конфігу.
+<img width="1279" height="723" alt="image" src="https://github.com/user-attachments/assets/4790f89d-5f80-4dac-a4df-27161c603e96" />
+
+
+https://darkestclouds.github.io/plugins/easytorrent/easytorrent.min.js
+
+https://nor3ela.github.io/trrnttlk5.js
