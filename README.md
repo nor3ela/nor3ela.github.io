@@ -159,7 +159,6 @@ c<img width="1280" height="598" alt="image" src="https://github.com/user-attachm
 
 
 
-https://bywolf88.github.io/lampa-plugins/index_interface_mod_new.html или же прямая ссылка https://bywolf88.github.io/lampa-plugins/interface_mod_new.js)](https://bywolf88.github.io/lampa-plugins/index_interface_mod_new.html или же прямая ссылка https://bywolf88.github.io/lampa-plugins/interface_mod_new.js
-
+https://bywolf88.github.io/lampa-plugins/index_interface_mod_new.html или же прямая ссылка https://bywolf88.github.io/lampa-plugins/interface_mod_new.js
 
 https://nor3ela.github.io/interface_mod_new.js
