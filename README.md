@@ -139,3 +139,27 @@ https://mastermagic98.github.io/l_plugins/cat_ua.js
 
 
 https://nor3ela.github.io/cat_ua.js
+
+15. interface_horizontal.js Telegram автора: @Weritos666
+В честь приближающихся праздников. Копируйте на свой лампак и наслаждайтесь. 
+
+
+https://nor3ela.github.io/interface_horizontal.js
+
+16. interface_vertical.js Telegram автора: @Weritos666
+В честь приближающихся праздников. Копируйте на свой лампак и наслаждайтесь. 
+
+
+https://nor3ela.github.io/interface_vertical.js
+
+17. interface_mod_new Telegram автора: @wolf2010ivan
+Вот до мучил свой плагин полностью всё переписал с нуля помошником были конечно AI но с ними конечно больше мучался) реально целиком быстрея бы написал короче вот держите инфа как установить
+<img width="1280" height="472" alt="image" src="https://github.com/user-attachments/assets/3fafd74f-8a61-49dd-a304-efdc16254475" />
+c<img width="1280" height="598" alt="image" src="https://github.com/user-attachments/assets/69e4869d-505d-4320-925f-661d43a772fc" />
+
+
+
+https://bywolf88.github.io/lampa-plugins/index_interface_mod_new.html или же прямая ссылка https://bywolf88.github.io/lampa-plugins/interface_mod_new.js)](https://bywolf88.github.io/lampa-plugins/index_interface_mod_new.html или же прямая ссылка https://bywolf88.github.io/lampa-plugins/interface_mod_new.js
+
+
+https://nor3ela.github.io/interface_mod_new.js
