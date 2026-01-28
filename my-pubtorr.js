@@ -109,7 +109,7 @@ var parsersInfo = [{
   id: 'http://jac.kozak.mooo.com',  
   name: '🇺🇦Flownetua',  
   settings: {  
-    url: 'https://jackett.sidepath.online',  
+    url: 'http://jac.kozak.mooo.com',  
     key: '2',  
     parser_torrent_type: 'jackett'  
   }  
