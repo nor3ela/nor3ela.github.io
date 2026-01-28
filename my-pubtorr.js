@@ -106,7 +106,7 @@ var Lang = {
 };  
   
 var parsersInfo = [{  
-  id: 'https://jackett.sidepath.online',  
+  id: 'http://jac.kozak.mooo.com',  
   name: '🇺🇦Flownetua',  
   settings: {  
     url: 'https://jackett.sidepath.online',  
